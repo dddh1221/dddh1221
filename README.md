@@ -1,7 +1,6 @@
-### 📱 Android Developer 📱
-- Hi there 👋
+# 📱 Android Developer 📱
 
-### 🛠 Tech Stack 🛠
+<center>**🛠 Tech Stack 🛠**</center>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
